@@ -1,25 +1,5 @@
 # VirtualTourist
 This is my 5th Udacity iOS Developer Project.
 
-Summary:
-
-This application was created purposely for the Udacity iOS Developer Nanodegree. This project firmed up my knowledge on creating anapplication that allows users to search for photos in different locations.
-
-The application offers the following features:
-
-Finding Flickr Photos In Different Locations
-Technologies Used In Application:
-
-UINavigationController
-UICollectionViews
-MVC
-Swift
-API's
-Extensions
-Testing The App:
-
-Download the project to your computer from this project page.
-Once the project is downloaded, open the .xcodeproj file from the folder.
-Run the project either using the iPhone simulator or your device. I recommend running the project on the latest iPhone device. It should be compiled with the latest version of Xcode.
-If you choose to download it on your device, please plug in your device to your computer and make the device target your device model. Then click 'run'.
+The Virtual Tourist app downloads and stores images from Flickr. The app allows users to drop pins on a map, as if they were stops on a tour. Users will then be able to download pictures for the location and persist both the pictures, and the association of the pictures with the pin.
 
